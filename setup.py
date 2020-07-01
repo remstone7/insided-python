@@ -17,7 +17,10 @@ setup(
     author_email='remstone7@gmail.com',
 
     description='Connect Python applications with the InSided API',
-    long_description='',
+    long_description=(
+"""
+This is  wrapper around the InSided community forum API.
+"""),
     license='MIT',
 
     keywords=['insided', 'api',],
