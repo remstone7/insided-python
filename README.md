@@ -1,5 +1,9 @@
 ## Python SDK for InSided Community Forum
 
+### Installation
+```bash
+pip install insided
+```
 
 ### Configuration
 
