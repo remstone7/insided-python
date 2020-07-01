@@ -3,9 +3,6 @@ from setuptools import setup, find_packages
 
 VERSION = '1.0.0'
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
-
 setup(
     name='insided',
     version=VERSION,
@@ -20,7 +17,7 @@ setup(
     author_email='remstone7@gmail.com',
 
     description='Connect Python applications with the InSided API',
-    long_description=long_description,
+    long_description='',
     license='MIT',
 
     keywords=['insided', 'api',],
