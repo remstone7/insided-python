@@ -2,6 +2,8 @@ import sys
 
 from insided import __version__
 from .authorization import Authorization
+from .gamification import Gamification
+from .users import Users
 from .webhooks import Webhooks
 
 

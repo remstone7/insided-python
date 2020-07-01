@@ -1,7 +1,7 @@
 import os
 from setuptools import setup, find_packages
 
-VERSION = '1.0'
+VERSION = '1.0.0'
 
 setup(
     name='insided',
@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     install_requires=['requests>=2.24.0'],
 
-    url='',
+    url='https://github.com/remstone7/insided-python',
     download_url='',
 
     author='Remington Stone',
